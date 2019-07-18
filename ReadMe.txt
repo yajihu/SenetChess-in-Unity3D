@@ -1,12 +1,9 @@
-Student name: Yaji Hu
-Student number: 101012215
+By Yaji Hu
+
 
 Welcome to my Senet game.
 Game rule was provided as: 
 http://www.cs.brandeis.edu/~storer/JimPuzzles/GAMES/Senet/Senet.pdf
-
-I finish the all requirement following by checklist: 
-https://culearn.carleton.ca/moodle/pluginfile.php/2852760/mod_resource/content/4/ChecklistAssignment1.pdf
 
 Reference and resources for chessboard, chessman:
 https://assetstore.unity.com/packages/3d/props/free-low-poly-chess-set-116856
